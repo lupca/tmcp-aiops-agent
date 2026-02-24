@@ -1,0 +1,9 @@
+fastapi>=0.110.0
+langgraph>=0.0.30
+langchain>=0.1.13
+langchain-community>=0.0.29
+elasticsearch>=8.12.0,<9.0.0
+pydantic-settings>=2.2.1
+requests>=2.31.0
+uvicorn>=0.29.0
+pydantic>=2.6.4
